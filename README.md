@@ -9,6 +9,8 @@ Raspagem do dataset na url do kaggle, dowwload, extrair e organizar para sua ins
 - Python
 - SQL Server
 - Power BI
+- DAX
+- Power Query
 
 ### Dashboard
 
