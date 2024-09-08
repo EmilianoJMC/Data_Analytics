@@ -3,7 +3,8 @@
 Execução de um ETL de ponta a ponta, utilizado fonte pública do Kaggle para raspagem, contendo dados sobre produção de petróleo em 36 pasíses, de 2021 a 2023.
 
 #### Processo
-Raspagem do dataset na url do kaggle, dowwload, extrair e organizar para sua inserção ao DB, onde foi feita conexão ao Power BI para apresentar o visual. 
+Raspagem do dataset na url do kaggle, donwload do arquivo, extrair e organizar para sua inserção ao DB, onde foi feita a conexão ao Power BI através de views criadas para desenvolver e apresentar o visual, 
+ao fim um email com o link do dashboard é enviado para informar sobre a atualização.
 
 #### Ferramentas Utilizadas
 - Python
